@@ -14,4 +14,7 @@
 
 ## Daily Scrums:
 * Before class we will have a daily standup.
-	
+
+
+## E-Sign:
+Alex Benedict.
