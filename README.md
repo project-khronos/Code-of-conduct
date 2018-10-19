@@ -9,5 +9,9 @@
 * Maintain positivity within the group. If someone is having an issue please communicate it with the group. Talk about productivity issues. 
 * Plan to do something producitive daily (even just a conversation not neccesarily getting work done.) 
 
+## Weekly Meetings:
+* Every Saturday starting on the 27th.
 
+## Daily Scrums:
+* Before class we will have a daily standup.
 	
