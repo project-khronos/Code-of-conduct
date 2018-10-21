@@ -17,7 +17,7 @@
 
 
 ## E-Sign:
-Alex Benedict.
-JR O.
-Eve Robles
-Travis, Decker.
+* Alex Benedict.
+* JR O.
+* Eve Robles
+* Travis, Decker.
